@@ -3,3 +3,4 @@
 16:47
 stupid
 stupid
+vim 3.txt 可以使用vim来新建或者像现在这样，对已有文件进行修改
